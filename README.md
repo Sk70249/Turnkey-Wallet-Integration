@@ -1,6 +1,6 @@
 # Turnkey Wallet Integration
 
-![Turnkey Wallet Integration](https://raw.githubusercontent.com/yourusername/your-repo/main/docs/turnkey-wallet.png)
+![Turnkey Wallet Integration](https://github.com/Sk70249/Turnkey-Wallet-Integration/blob/main/docs/turnkey-wallet.png)
 
 A modern, secure wallet integration using Turnkey's SDK for creating embedded non-custodial wallets with multiple authentication methods.
 
